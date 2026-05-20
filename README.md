@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:7C3AED&height=220&section=header&text=Hi,%20I'm%20Bao%20Hiep&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Flutter%20Developer%20•%20Mobile%20Engineer%20•%20Software%20Engineering%20Student&descAlignY=58&descSize=17" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:7C3AED&height=220&section=header&text=Hi,%20I'm%20WinD%20(Thai%20Duong)&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Flutter%20Developer%20•%20Mobile%20Engineer%20•%20Software%20Engineering%20Student&descAlignY=58&descSize=17" />
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=900&color=00C2FF&center=true&vCenter=true&width=700&lines=Flutter+Developer;Mobile+Engineer;Clean+Code+Enthusiast;Backend+Learner;Always+Building+Something+New" />
 
