@@ -88,14 +88,17 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=iamwind-dev&show_icons=true&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/iamwind-dev">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=iamwind-dev&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+</a>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamwind-dev&layout=compact&theme=tokyonight&hide_border=true" />
-
+<a href="https://github.com/iamwind-dev">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamwind-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+</a>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=iamwind-dev&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=iamwind-dev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
